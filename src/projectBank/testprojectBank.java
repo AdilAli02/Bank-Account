@@ -9,6 +9,7 @@ public class testprojectBank {
 		Scanner input = new Scanner(System.in);
 		Account account = new Account();
 //projectBank
+//System.out.print("Enter initial balance: ");		
 		
 		System.out.print("Enter initial balance: ");
 		double initialBalance = input.nextDouble();
